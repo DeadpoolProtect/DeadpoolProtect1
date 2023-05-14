@@ -21,16 +21,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpoolProtect&layout=compact&theme=radical)](https://github.com/DeadpoolProtect)
 
-## Tools and API.
-
-<p>
-	<a href="https://github.com/"><img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
-	<a href="https://git-scm.com/"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
-	<a href="https://www.sublimetext.com"><img width = "50px" alt = "Sublime" src = "https://cdn.discordapp.com/attachments/765212635632894004/800398326566092820/pngegg.png"/></a>
-	<a href="https://getbootstrap.com/"><img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/></a>
-	<a href="https://github.com/Rapptz/discord.py"><img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png"/></a>
-</p>
-
 ## My Works.
 
 - [Alexi BOT](https://alexisbot.fr/)
