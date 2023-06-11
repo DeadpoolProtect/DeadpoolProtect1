@@ -23,7 +23,7 @@
 
 ## My Works.
 
-- [Alexi BOT](https://alexisbot.fr/)
+- [Alexis BOT](https://alexisbot.fr/)
 
 
 
